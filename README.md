@@ -1,6 +1,6 @@
 # 📥 Instagram Video Downloader con Docker
 
-Aplicación web desarrollada con **Python + Flask** y **yt-dlp** para descargar videos de redes sociales (Instagram, YouTube, TikTok, Facebook, LinkedIn). Containerizada con Docker aplicando tres estrategias de construcción de imagen: básica, optimizada y multi-stage.
+Aplicación web desarrollada con **Python + Flask** y **yt-dlp** para descargar videos de Instagram. Containerizada con Docker aplicando tres estrategias de construcción de imagen: básica, optimizada y multi-stage.
 
 ---
 
