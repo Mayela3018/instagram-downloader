@@ -23,7 +23,7 @@ Aplicación web desarrollada con **Python + Flask** y **yt-dlp** para descargar 
 
 ## Descripción
 
-Este proyecto forma parte de la práctica calificada del laboratorio de **Desarrollo de Soluciones en la Nube (5C24 — Sección AB)**. El objetivo es construir y containerizar una aplicación funcional aplicando buenas prácticas de Docker, incluyendo:
+Este proyecto forma parte de la práctica calificada del laboratorio de **Desarrollo de Soluciones en la Nube **. El objetivo es construir y containerizar una aplicación funcional aplicando buenas prácticas de Docker, incluyendo:
 
 - Imagen base estándar (`python:3.11-slim`)
 - Imagen optimizada con Alpine Linux
