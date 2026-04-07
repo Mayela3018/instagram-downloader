@@ -330,5 +330,5 @@ Algunos videos de Instagram requieren cookies de sesión o no son públicos. En 
 ## Autora
 
 **Mayela Ticona**
-Curso: Desarrollo de Soluciones en la Nube — 5C24 Sección AB
-Laboratorio: Práctica Calificada — Contenedores Docker
+Curso: Desarrollo de Soluciones en la Nube — 5C24 
+Laboratorio: Contenedores Docker
