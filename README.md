@@ -182,4 +182,5 @@ En este proyecto se logró desarrollar y containerizar una aplicación funcional
 
 ## 👩‍💻 Autor
 Mayela Ticona 
+
 Proyecto desarrollado como práctica de laboratorio de contenedores y microservicios.
